@@ -50,6 +50,7 @@ To better support non-English speakers, I've started an effort to translate EZBl
 
 The following are contributors to this goal:
 - Portuguese: Raí
+- French : SonMaxime
 
   [1]: http://www.ericzhang.me/dl/?file=EZBlocker.php
   [2]: http://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/
