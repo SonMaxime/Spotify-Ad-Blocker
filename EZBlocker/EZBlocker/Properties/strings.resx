@@ -122,27 +122,27 @@
     <comment>On main form</comment>
   </data>
 	<data name="BlockBannersRestart" xml:space="preserve">
-    <value>You may need to restart Spotify or your computer for this setting to take effect.</value>
+    <value>Vous devez redémarrer Spotify pour que les changements soient appliqués.</value>
     <comment>BlockBannersCheckbox</comment>
   </data>
 	<data name="BlockBannersUAC" xml:space="preserve">
-    <value>Enabling/Disabling this option requires Administrator privileges.
+    <value>Activer/Désactiver cet option necéssite des droits administrateurs.
 
-Please reopen EZBlocker with "Run as Administrator".</value>
+Veuillez redémarrer EZBlocker avec "Executer en tant qu'administrateur".</value>
     <comment>BlockBannersCheckbox</comment>
   </data>
 	<data name="HiddenNotify" xml:space="preserve">
-    <value>EZBlocker is hidden. Double-click this icon to restore.</value>
+    <value>EZBlock est disimulé. Double-cliquez pour réouvrir la page.</value>
     <comment>NotifyIcon</comment>
   </data>
 	<data name="OnExitMessageBox" xml:space="preserve">
-    <value>Spotify ads will not be muted if EZBlocker is not running.
+    <value>Les pubs Spotify seront réactivés si vous quittez EZBlocker
 
-Are you sure you want to exit?</value>
+Êtes vous sur de quitter ?</value>
     <comment>OnFormClosing</comment>
   </data>
 	<data name="PatchErrorMessageBox" xml:space="preserve">
-    <value>Error patching Spotify. EZBlocker may not work.</value>
+    <value>Error patching Spotify. EZBlocker ne marche pas.</value>
     <comment>On startup</comment>
   </data>
 	<data name="ReportProblemClipboard" xml:space="preserve">
@@ -151,9 +151,9 @@ Spotify Version: {1}</value>
     <comment>ReportProblemLink</comment>
   </data>
 	<data name="ReportProblemMessageBox" xml:space="preserve">
-    <value>Please leave a comment clearly describing your problem.
+    <value>Veuillez laisser un commentaire en décrivant clairement votre situation.
 
-Paste this information (already copied to your clipboard):
+Collez cet information (déjà copié dans votre presse-papier):
 EZBlocker Version: {0}
 Spotify Version: {1}</value>
     <comment>ReportProblemLink</comment>
@@ -163,13 +163,13 @@ Spotify Version: {1}</value>
     <comment>On main form</comment>
   </data>
 	<data name="SpotifyNotFoundMessageBox" xml:space="preserve">
-    <value>Spotify is not installed or you have the Windows Store version.
+    <value>Spotify n'est pas installé ou vous possésez la version Windows Store.
 
-Click 'OK' to install the normal desktop version of Spotify.</value>
+Cliquez sur 'OK' pour lancer l'installation de Spotify.</value>
     <comment>On startup</comment>
   </data>
 	<data name="StartupCheckboxText" xml:space="preserve">
-    <value>Start EZBlocker on Login</value>
+    <value>Démarrer EZBlocker au démarrage de l'ordinateur.</value>
     <comment>On main form</comment>
   </data>
 	<data name="StatusLabelLoadingText" xml:space="preserve">
@@ -181,63 +181,63 @@ Click 'OK' to install the normal desktop version of Spotify.</value>
     <comment>Status label</comment>
   </data>
 	<data name="StatusNotFound" xml:space="preserve">
-    <value>Spotify not found</value>
+    <value>Spotify non trouvé</value>
     <comment>Status label</comment>
   </data>
 	<data name="StatusPaused" xml:space="preserve">
-    <value>Spotify is paused</value>
+    <value>Spotify est en pause.</value>
     <comment>Status label</comment>
   </data>
 	<data name="StatusPlaying" xml:space="preserve">
-    <value>Playing:</value>
+    <value>En train de jouer:</value>
     <comment>Status label</comment>
   </data>
 	<data name="ToolStripExit" xml:space="preserve">
     <value>Exit</value>
-    <comment>In tray menu</comment>
+    <comment>Dans les menus</comment>
   </data>
 	<data name="ToolStripOpen" xml:space="preserve">
-    <value>Show EZBlocker Window</value>
+    <value>Montrer la fenetre</value>
     <comment>In tray menu</comment>
   </data>
 	<data name="ToolStripRemovePatch" xml:space="preserve">
-    <value>Remove EZBlocker from Spotify</value>
+    <value>Retirer EZBlocker de Spotify</value>
     <comment>In tray menu</comment>
   </data>
 	<data name="ToolStripWebsite" xml:space="preserve">
-    <value>Open EZBlocker Website</value>
+    <value>Ouvrir le site EZBlocker</value>
     <comment>In tray menu</comment>
   </data>
 	<data name="TranslatedByText" xml:space="preserve">
-    <value>Translated by Eric Zhang</value>
+    <value>Traduit par SonMaxime</value>
     <comment>Translator Name</comment>
   </data>
 	<data name="UndoPatchFailMessageBox" xml:space="preserve">
-    <value>Failed to remove EZBlocker from Spotify.</value>
+    <value>N'arrive pas à retirer EZBlocker de Spotify.</value>
     <comment>RemovePatch</comment>
   </data>
 	<data name="UndoPatchOKMessageBox" xml:space="preserve">
-    <value>EZBlocker removed from Spotify.</value>
+    <value>EZBlocker retiré de Spotify.</value>
     <comment>RemovePatch</comment>
   </data>
 	<data name="UpgradeErrorMessageBox" xml:space="preserve">
-    <value>Error checking for update.</value>
+    <value>Erreur en cherchant une mise à jour.</value>
     <comment>CheckUpdate</comment>
   </data>
 	<data name="UpgradeMessageBox" xml:space="preserve">
-    <value>There is a newer version of EZBlocker available. Would you like to upgrade?</value>
+    <value>Une nouvelle version de EZBlocker est disponible. Voulez vous l'installer ?</value>
     <comment>CheckUpdate</comment>
   </data>
 	<data name="VolumeMixerButtonText" xml:space="preserve">
-    <value>Open Volume Control</value>
+    <value>Ouvrir le pannel de contrôle.</value>
     <comment>On main form</comment>
   </data>
 	<data name="VolumeMixerOpenError" xml:space="preserve">
-    <value>Could not open Volume Control</value>
+    <value>Ne peut pas ouvrir le pannel de contrôle</value>
     <comment>VolumeMixerButton</comment>
   </data>
 	<data name="WebsiteLinkText" xml:space="preserve">
-    <value>Report Problem</value>
+    <value>Signaler un problème</value>
     <comment>On main form</comment>
   </data>
 </root>
